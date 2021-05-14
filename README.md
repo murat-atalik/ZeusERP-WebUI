@@ -26,5 +26,5 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-# Lisans Bilgileri
-Bu projenin kaynak kodu GPL v3 lisansı üzerinde kullanım geçerliliği bulundurmaktadır. Daha detaylı bilgi için LICENSE dökümanını gözden geçirebilirsiniz.
+# License Information
+The source code of this project is valid on use under GPL v3 license. For more detailed information, you can review the LICENSE document. 
